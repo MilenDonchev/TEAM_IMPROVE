@@ -1,0 +1,4 @@
+{
+    "jwt_privateKey": "MILENSKI_JWT_PRIVATE_KEY",
+    "MongoDB": "MONGO_DB_ATLASS"
+}
